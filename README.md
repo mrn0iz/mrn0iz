@@ -48,7 +48,4 @@ If you want talk to me, you can contact me on discord.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noizthagod)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoizThaGod&layout=compact&bg_color=353535&text_color=ABABAB&title_color=BC25E9&)
 
-
-![NOIZ](https://github-readme-stats.vercel.app/api?username=NoizThaGod&show_icons=true&bg_color=353535&text_color=ABABAB&title_color=BC25E9&icon_color=BC25E9)
